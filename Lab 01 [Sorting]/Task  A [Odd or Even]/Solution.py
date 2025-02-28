@@ -1,5 +1,3 @@
-
-
 val = int(input())
 for i in range(val):
   num= int(input())
